@@ -4,9 +4,10 @@
 
 
 body{
-    height: 100vh;
-    background: url('midia/fundo\ Bio.jpg') no-repeat center center;
+    
+    background: url('midia/fundo-de-papel-amassado-rosa_113629-501.avif') no-repeat  center center;
     background-size: cover;
+    background-attachment: fixed;
 
 }
 
@@ -57,7 +58,7 @@ li img{
 
 
 .btn1,.btn2{
-    max-width: 300px;
+    max-width: 250px;
     padding: 5px 30px;
     background-color: rgb(255, 255, 255);
     margin: 10px auto ;
@@ -70,6 +71,12 @@ li img{
 
 }
 
+
+footer{
+    max-width: 960px;
+    margin: 200px auto 20px auto;
+    text-align: center;
+}
 
 
 
