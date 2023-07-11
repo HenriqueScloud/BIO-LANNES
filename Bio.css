@@ -62,8 +62,23 @@ li img{
     padding: 5px 30px;
     background-color: rgb(255, 255, 255);
     margin: 10px auto ;
+    font-weight: 600;
     border-radius: 5px;
+    box-shadow:  0px 0px 15px rgb(248 176 233);
 }
+.btn1,.btn2:hover{
+    box-shadow: inset 0px 0px 25px rgb(248 176 233);
+}
+.botoes{
+    max-width: 310px;
+    margin: 0 auto;
+    
+
+}
+
+
+
+
 
  a{
     text-decoration:none;
